@@ -16,7 +16,7 @@ such as CNN, VGG, ResNet, EfficientNet, and FaceNet.<br>
 <br>
 <br>
 
-# 프로젝트 결과
+# 프로젝트 소개
 
 #### 훈련 데이터 분석 및 전처리 과정 진행<br>
 <img src="/images/image01.png" width="400"> <img src="/images/image02.png" width="400"><br>
