@@ -14,6 +14,9 @@ such as CNN, VGG, ResNet, EfficientNet, and FaceNet.<br>
 모델 성능을 개선할 수 있었습니다.<br>
 <br>
 <br>
+
+# 프로젝트 결과
+
 #### 훈련 데이터 분석 및 전처리 과정 진행<br>
 <img src="/images/image01.png" width="300"> <img src="/images/image02.png" width="300"><br>
 <br>
