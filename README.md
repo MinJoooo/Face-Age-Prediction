@@ -3,6 +3,7 @@ This project is a project to predict age using deep learning computer vision mod
 such as CNN, VGG, ResNet, EfficientNet, and FaceNet.<br>
 <br>
 <br>
+
 #### '딥러닝과응용 (산업공학)' 수업 프로젝트<br>
 2021.09.01.~2021.12.21.<br>
 <br>
@@ -16,7 +17,6 @@ such as CNN, VGG, ResNet, EfficientNet, and FaceNet.<br>
 <br>
 
 # 프로젝트 결과
-
 #### 훈련 데이터 분석 및 전처리 과정 진행<br>
 <img src="/images/image01.png" width="400"> <img src="/images/image02.png" width="400"><br>
 <br>
